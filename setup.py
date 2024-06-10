@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
    name='animals',
-   version='3.0.1',
+   version='3.0.2',
    description='A useful animals module',
    author='animals',
    author_email='animals@animals.example',
