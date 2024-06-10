@@ -1,3 +1,3 @@
 # from animals.mammals import Mammals
 # from animals.birds import Birds
-import bb
+from animals import bb
